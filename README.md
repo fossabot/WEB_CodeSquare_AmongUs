@@ -11,7 +11,12 @@
 
 코드스퀘어(CodeSquare)는 군 복무 중인 개발자를 위한 국방망용 오픈소스 통합 개발 플랫폼입니다.
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCirnoV%2FWEB_CodeSquare_AmongUs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FCirnoV%2FWEB_CodeSquare_AmongUs?ref=badge_large)
+
 ## 기술 스택 (Technique Used)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCirnoV%2FWEB_CodeSquare_AmongUs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FCirnoV%2FWEB_CodeSquare_AmongUs?ref=badge_shield)
+
 ### Server(back-end)
 - Java Spring Boot
 - MariaDB
